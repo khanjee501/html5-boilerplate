@@ -13,6 +13,10 @@ entirely. That's cool.
 
 ## plugins.js
 
+bash: /c/Users/Prime Com/.terminal-config/git-prompt.sh: No such file or directory bash: /c/Users/Prime Com/.terminal-config/git-completion.bash: No such file or directory
+bash: /c/Users/Prime Com/.terminal-config/git-prompt.sh: No such file or directorybash: /c/Users/Prime Com/.terminal-config/git-completion.bash: No such file or directoryi am seeing this at the top everytime i open git bash after setting up as is advised in the video... As there going to be a problem?
+0
+Sahir · Lecture 5 · a day ago
 This file can be used to contain all your plugins, such as jQuery plugins and
 other 3rd party scripts for a simple site.
 
